@@ -1,2 +1,2 @@
 # Better-Health
-Better Heath
+Better Health
